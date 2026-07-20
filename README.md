@@ -7,8 +7,11 @@ This repository contains sample manual test cases for common web application mod
 | File | Description |
 
 | [Login_Test_Cases.xlsx](https://1drv.ms/x/c/68b712d9337b3437/IQC-XuvO7nnsSZeQjyX-XyP0Ac8PpTYrqzB4iDWC_wt0Tf0?e=DwtwuI) | Login module test cases covering positive, negative, validation, UI, and security scenarios. |
+
 | [Registration_Test_Cases.xlsx](https://1drv.ms/x/c/68b712d9337b3437/IQC-XuvO7nnsSZeQjyX-XyP0Ac8PpTYrqzB4iDWC_wt0Tf0?e=DwtwuI) | User registration test cases including field validations, password policies, duplicate accounts, and successful registration. |
+
 | [Forgot_Password_Test_Cases.xlsx](https://1drv.ms/x/c/68b712d9337b3437/IQC-XuvO7nnsSZeQjyX-XyP0Ac8PpTYrqzB4iDWC_wt0Tf0?e=DwtwuI) | Password reset scenarios including OTP verification, reset links, token expiry, and password policy validation. |
+
 | [Search_Module_Test_Cases.xlsx](https://1drv.ms/x/c/68b712d9337b3437/IQC-XuvO7nnsSZeQjyX-XyP0Ac8PpTYrqzB4iDWC_wt0Tf0?e=DwtwuI) | Search functionality test cases covering filters, sorting, pagination, partial matches, exact matches, and no-result scenarios. |
 
 ## Testing Techniques Used
